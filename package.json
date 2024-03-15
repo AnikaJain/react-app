@@ -1,0 +1,22 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "jtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnikaJain/react-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnikaJain/react-app/issues"
+  },
+  "homepage": "https://github.com/AnikaJain/react-app#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
